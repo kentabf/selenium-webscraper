@@ -1,0 +1,8 @@
+PROGRAMS TO RUN:
+type ’01’ to: run the setup for the web scraper
+type ’02’ to: run the web scraper
+type ’03’ to: run the setup for parsing the data from scraping
+type ’04’ to: run the parser for the data from scraping
+type ’05’ to: run the additional geographic info. scraper from googlemaps
+type ‘q’  to: quit
+META: 01_setup: 2018-04-01 11:25:22.680322
